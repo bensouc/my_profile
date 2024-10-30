@@ -1,0 +1,13 @@
+/* Write some CSS below */
+@font-face {
+    font-family: 'CreativeOverTrial';
+    src: url('fonts/creative_over_trial.otf') format('opentype');
+  }
+
+  body {
+    font-family: 'CreativeOverTrial', sans-serif;
+  }
+
+  h1{
+    font-family:  Chivo, sans-serif;
+  }
